@@ -1,6 +1,6 @@
 # Hospital Management System — Full Project (Backend + Frontend)
 
-This ZIP contains a runnable scaffold for a Hospital Management System using:
+This file contains a runnable scaffold for a Hospital Management System using:
 
 - Backend: Node.js (Express), MySQL
 - Frontend: React (create-react-app scaffold style), Bootstrap
